@@ -1,0 +1,9 @@
+PwdBUD仅需三个参数，以域名或公司名为索引生成字典。
+
+0x02
+-d --domain    #域名
+
+-c --company   #公司名
+
+-o --outfile   #必须，输出文件
+python pwdbud.py -d jd -c jingdong -o res.txt
