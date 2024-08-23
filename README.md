@@ -1,2 +1,2 @@
-在日常测试中，对常用到的字典进行了整理
-！！！未经过允许，禁止非法测试 🫡😦
+In the daily test, the commonly used dictionaries are sorted out
+Daaaaaa! Illegal testing is prohibited without permission 🫡😦
